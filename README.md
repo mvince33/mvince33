@@ -4,6 +4,12 @@ A test of $\LaTeX$ functionality: $\displaystyle e^{i \pi} + 1 = 0$
 
 $\displaystyle \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$
 
+$$\displaystyle \begin{align} \bar{z} w  &= (a - bi)(c + di) \\
+                                         &= (ac + bd) + (ad - bc)i \\
+                                         &= |z|e^{-\alpha i}|w|e^{\beta i} \\
+                                         &= |z||w| \cos \theta + (|z||w| \sin \theta)i
+                \end{align}$$
+
 <!--
 **mvince33/mvince33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
