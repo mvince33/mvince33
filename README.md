@@ -1,6 +1,6 @@
 ### Hello World!
 
-<details>
+<!--<details>
   <summary>Math and LateX stuff
   </summary>
 
@@ -20,7 +20,7 @@ $= |z|e^{-\alpha i}|w|e^{\beta i} $
   
 $= |z||w| \cos \theta + (|z||w| \sin \theta)i $
   
-  So $z \cdot w = \frac{1}{2} \left( \bar{z}w + z \bar{w} \right)$
+  So $z \cdot w = \frac{1}{2} \left( \bar{z}w + z \bar{w} \right)$-->
 
 <!--
 **mvince33/mvince33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
